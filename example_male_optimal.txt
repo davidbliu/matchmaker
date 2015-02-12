@@ -1,0 +1,377 @@
+Alan Zhang is paired with Mingde  with percentage  0.055
+	Haruko Ayabe 0.14
+	Kevin Lee 0.019
+	Cate 0.003
+	Alice Sun 0.004
+	Mingde 0.055
+	Willa Peng 0.074
+	Michael Xu 0.1
+	Alven Wang 0.065
+	Julie Xiao 0.141
+	Alyssa Gan 0.015
+	Christine Shih 0.265
+	Caroline Chen 0.116
+	Kevin Zhang 0.003
+Patrick Chang is paired with Elizabeth Jiang  with percentage  0.959
+	Elizabeth Jiang 0.959
+	Joey Choi 0.041
+Andy Chen is paired with Alice Sun  with percentage  0.193
+	Haruko Ayabe 0.042
+	Andrea Kwan 0.002
+	Nathalie Nguyen 0.001
+	Kevin Lee 0.005
+	Cate 0.029
+	Iris Ananthset 0.048
+	Alice Sun 0.193
+	Mingde 0.009
+	Willa Peng 0.025
+	Michael Xu 0.021
+	Emily Liu 0.016
+	Alven Wang 0.167
+	Julie Xiao 0.007
+	Emily Vo 0.283
+	Phyllis Thai 0.001
+	Alyssa Gan 0.02
+	Christine Shih 0.068
+	Frances Thai 0.006
+	Caroline Chen 0.008
+	Kevin Zhang 0.049
+Alex Wang is paired with Emily Liu  with percentage  0.755
+	Haruko Ayabe 0.001
+	Alice Sun 0.007
+	Andrea Kwan 0.01
+	Iris Ananthset 0.011
+	Mingde 0.001
+	Emily Liu 0.755
+	Emily Vo 0.094
+	Joey Choi 0.045
+	Nathalie Nguyen 0.001
+	Frances Thai 0.038
+	Caroline Chen 0.001
+	Kevin Zhang 0.036
+Willie is paired with Phyllis Thai  with percentage  0.428
+	Haruko Ayabe 0.008
+	Kevin Lee 0.009
+	Cate 0.219
+	Iris Ananthset 0.032
+	Alice Sun 0.037
+	Mingde 0.005
+	Willa Peng 0.023
+	Michael Xu 0.047
+	Alven Wang 0.011
+	Julie Xiao 0.026
+	Emily Vo 0.012
+	Phyllis Thai 0.428
+	Christine Shih 0.01
+	Frances Thai 0.029
+	Caroline Chen 0.095
+	Kevin Zhang 0.009
+David Zhou is paired with Michael Xu  with percentage  0.126
+	Haruko Ayabe 0.023
+	Kevin Lee 0.003
+	Cate 0.088
+	Alice Sun 0.004
+	Mingde 0.2
+	Willa Peng 0.098
+	Michael Xu 0.126
+	Alven Wang 0.122
+	Julie Xiao 0.106
+	Alyssa Gan 0.053
+	Phyllis Thai 0.001
+	Christine Shih 0.129
+	Caroline Chen 0.041
+	Kevin Zhang 0.006
+JaeHoon Kim is paired with Winky Wong  with percentage  0.965
+	Alice Sun 0.001
+	Mingde 0.002
+	Willa Peng 0.012
+	Emily Vo 0.005
+	Alven Wang 0.011
+	Julie Xiao 0.001
+	Winky Wong 0.965
+	Caroline Chen 0.003
+Allen Chen is paired with Haruko Ayabe  with percentage  0.163
+	Haruko Ayabe 0.163
+	Kevin Lee 0.233
+	Cate 0.006
+	Andrea Kwan 0.002
+	Alice Sun 0.01
+	Mingde 0.031
+	Willa Peng 0.035
+	Michael Xu 0.04
+	Emily Liu 0.003
+	Alven Wang 0.03
+	Julie Xiao 0.078
+	Emily Vo 0.004
+	Phyllis Thai 0.015
+	Alyssa Gan 0.001
+	Christine Shih 0.023
+	Frances Thai 0.001
+	Caroline Chen 0.182
+	Kevin Zhang 0.143
+Jeremy Chin is paired with Kevin Lee  with percentage  0.042
+	Haruko Ayabe 0.002
+	Kevin Lee 0.042
+	Cate 0.006
+	Iris Ananthset 0.007
+	Alice Sun 0.004
+	Mingde 0.002
+	Willa Peng 0.003
+	Eric Park 0.814
+	Alven Wang 0.016
+	Julie Xiao 0.021
+	Emily Vo 0.013
+	Michael Xu 0.003
+	Alyssa Gan 0.004
+	Christine Shih 0.048
+	Kevin Zhang 0.015
+Kev Li is paired with Sammy Tong  with percentage  0.956
+	Sammy Tong 0.956
+	Nathalie Nguyen 0.044
+Rouhin Ghosh is paired with Alven Wang  with percentage  0.241
+	Haruko Ayabe 0.029
+	Andrea Kwan 0.002
+	Kevin Lee 0.003
+	Cate 0.011
+	Iris Ananthset 0.009
+	Alice Sun 0.01
+	Mingde 0.076
+	Willa Peng 0.146
+	Michael Xu 0.161
+	Alven Wang 0.241
+	Julie Xiao 0.104
+	Alyssa Gan 0.005
+	Phyllis Thai 0.002
+	Christine Shih 0.08
+	Frances Thai 0.004
+	Caroline Chen 0.116
+	Kevin Zhang 0.001
+Yiming Jen is paired with Andrea Kwan  with percentage  0.64
+	Kevin Lee 0.001
+	Cate 0.295
+	Andrea Kwan 0.64
+	Alice Sun 0.007
+	Mingde 0.005
+	Willa Peng 0.001
+	Michael Xu 0.003
+	Julie Xiao 0.002
+	Alyssa Gan 0.033
+	Phyllis Thai 0.009
+	Christine Shih 0.001
+	Caroline Chen 0.003
+Hammad Khan is paired with Joey Choi  with percentage  0.875
+	Andrea Kwan 0.001
+	Iris Ananthset 0.015
+	Alice Sun 0.009
+	Emily Liu 0.031
+	Emily Vo 0.038
+	Joey Choi 0.875
+	Frances Thai 0.03
+	Kevin Zhang 0.001
+Eric Park is paired with Cate  with percentage  0.046357615894
+	Haruko Ayabe 0.00662251655629
+	Andrea Kwan 0.00662251655629
+	Cate 0.046357615894
+	Iris Ananthset 0.0331125827815
+	Alice Sun 0.0198675496689
+	Willa Peng 0.0198675496689
+	Emily Vo 0.0794701986755
+	Alven Wang 0.0529801324503
+	Julie Xiao 0.0198675496689
+	Alyssa Gan 0.0132450331126
+	Michael Xu 0.0331125827815
+	Christine Shih 0.158940397351
+	Frances Thai 0.0728476821192
+	Caroline Chen 0.430463576159
+	Kevin Zhang 0.00662251655629
+Alex Takahashi is paired with Iris Ananthset  with percentage  0.431
+	Haruko Ayabe 0.025
+	Andrea Kwan 0.01
+	Cate 0.018
+	Iris Ananthset 0.431
+	Alice Sun 0.323
+	Mingde 0.021
+	Willa Peng 0.005
+	Michael Xu 0.008
+	Alven Wang 0.005
+	Julie Xiao 0.004
+	Emily Vo 0.094
+	Phyllis Thai 0.001
+	Alyssa Gan 0.006
+	Christine Shih 0.001
+	Frances Thai 0.01
+	Caroline Chen 0.004
+	Kevin Zhang 0.034
+Ben Lin is paired with Caroline Chen  with percentage  0.111
+	Haruko Ayabe 0.037
+	Kevin Lee 0.022
+	Cate 0.049
+	Mingde 0.126
+	Willa Peng 0.114
+	Michael Xu 0.198
+	Alven Wang 0.112
+	Julie Xiao 0.129
+	Alyssa Gan 0.018
+	Christine Shih 0.084
+	Caroline Chen 0.111
+Arthur Liou is paired with Kevin Zhang  with percentage  0.231
+	Haruko Ayabe 0.057
+	Andrea Kwan 0.002
+	Nathalie Nguyen 0.001
+	Kevin Lee 0.288
+	Cate 0.06
+	Iris Ananthset 0.001
+	Emily Vo 0.006
+	Alice Sun 0.054
+	Mingde 0.012
+	Emily Liu 0.113
+	Michael Xu 0.009
+	Willa Peng 0.006
+	Alven Wang 0.01
+	Julie Xiao 0.103
+	Alyssa Gan 0.016
+	Christine Shih 0.027
+	Frances Thai 0.001
+	Caroline Chen 0.003
+	Kevin Zhang 0.231
+David Cheung is paired with Willa Peng  with percentage  0.066
+	Haruko Ayabe 0.059
+	Nathalie Nguyen 0.001
+	Kevin Lee 0.151
+	Cate 0.01
+	Andrea Kwan 0.057
+	Emily Vo 0.001
+	Alice Sun 0.061
+	Mingde 0.009
+	Willa Peng 0.066
+	Michael Xu 0.043
+	Emily Liu 0.007
+	Alven Wang 0.007
+	Julie Xiao 0.096
+	Alyssa Gan 0.078
+	Phyllis Thai 0.005
+	Christine Shih 0.046
+	Frances Thai 0.065
+	Caroline Chen 0.081
+	Kevin Zhang 0.157
+David Liu is paired with Julie Xiao  with percentage  0.073
+	Haruko Ayabe 0.187
+	Kevin Lee 0.004
+	Cate 0.094
+	Alice Sun 0.012
+	Mingde 0.189
+	Willa Peng 0.073
+	Michael Xu 0.091
+	Alven Wang 0.089
+	Julie Xiao 0.073
+	Alyssa Gan 0.074
+	Phyllis Thai 0.001
+	Christine Shih 0.046
+	Caroline Chen 0.041
+	Kevin Zhang 0.026
+Jensen Li is paired with Alyssa Gan  with percentage  0.436
+	Alice Sun 0.005
+	Kevin Lee 0.013
+	Cate 0.021
+	Iris Ananthset 0.042
+	Emily Vo 0.001
+	Andrea Kwan 0.004
+	Mingde 0.008
+	Willa Peng 0.197
+	Michael Xu 0.041
+	Emily Liu 0.001
+	Alven Wang 0.009
+	Julie Xiao 0.007
+	Alyssa Gan 0.436
+	Phyllis Thai 0.001
+	Christine Shih 0.038
+	Frances Thai 0.123
+	Caroline Chen 0.013
+	Kevin Zhang 0.04
+Albert Lin is paired with Frances Thai  with percentage  0.448
+	Haruko Ayabe 0.001
+	Andrea Kwan 0.018
+	Iris Ananthset 0.001
+	Mingde 0.001
+	Emily Liu 0.005
+	Michael Xu 0.001
+	Emily Vo 0.001
+	Phyllis Thai 0.5
+	Frances Thai 0.448
+	Caroline Chen 0.024
+Eric Quach is paired with Nathalie Nguyen  with percentage  0.913
+	Haruko Ayabe 0.002
+	Alice Sun 0.011
+	Cate 0.005
+	Andrea Kwan 0.016
+	Nathalie Nguyen 0.913
+	Mingde 0.002
+	Emily Liu 0.011
+	Emily Vo 0.001
+	Willa Peng 0.001
+	Alven Wang 0.001
+	Julie Xiao 0.002
+	Alyssa Gan 0.002
+	Iris Ananthset 0.006
+	Christine Shih 0.001
+	Frances Thai 0.008
+	Caroline Chen 0.002
+	Kevin Zhang 0.016
+Brandon Ye is paired with Emily Vo  with percentage  0.39
+	Haruko Ayabe 0.003
+	Andrea Kwan 0.003
+	Nathalie Nguyen 0.001
+	Kevin Lee 0.001
+	Cate 0.008
+	Iris Ananthset 0.35
+	Alice Sun 0.169
+	Mingde 0.001
+	Emily Liu 0.018
+	Michael Xu 0.003
+	Willa Peng 0.002
+	Alven Wang 0.016
+	Julie Xiao 0.002
+	Emily Vo 0.39
+	Joey Choi 0.001
+	Christine Shih 0.004
+	Frances Thai 0.001
+	Caroline Chen 0.005
+	Kevin Zhang 0.021
+	Phyllis Thai 0.001
+Gary Huang is paired with Tiffany Tsai  with percentage  0.961
+	Cate 0.001
+	Iris Ananthset 0.004
+	Nathalie Nguyen 0.004
+	Emily Vo 0.002
+	Tiffany Tsai 0.961
+	Christine Shih 0.002
+	Frances Thai 0.015
+	Caroline Chen 0.001
+	Kevin Zhang 0.01
+
+
+
+Alan Zhang is paired with Mingde  with percentage  0.055
+Patrick Chang is paired with Elizabeth Jiang  with percentage  0.959
+Andy Chen is paired with Alice Sun  with percentage  0.193
+Alex Wang is paired with Emily Liu  with percentage  0.755
+Willie is paired with Phyllis Thai  with percentage  0.428
+David Zhou is paired with Michael Xu  with percentage  0.126
+JaeHoon Kim is paired with Winky Wong  with percentage  0.965
+Allen Chen is paired with Haruko Ayabe  with percentage  0.163
+Jeremy Chin is paired with Kevin Lee  with percentage  0.042
+Kev Li is paired with Sammy Tong  with percentage  0.956
+Rouhin Ghosh is paired with Alven Wang  with percentage  0.241
+Yiming Jen is paired with Andrea Kwan  with percentage  0.64
+Hammad Khan is paired with Joey Choi  with percentage  0.875
+Eric Park is paired with Cate  with percentage  0.046357615894
+Alex Takahashi is paired with Iris Ananthset  with percentage  0.431
+Ben Lin is paired with Caroline Chen  with percentage  0.111
+Arthur Liou is paired with Kevin Zhang  with percentage  0.231
+David Cheung is paired with Willa Peng  with percentage  0.066
+David Liu is paired with Julie Xiao  with percentage  0.073
+Jensen Li is paired with Alyssa Gan  with percentage  0.436
+Albert Lin is paired with Frances Thai  with percentage  0.448
+Eric Quach is paired with Nathalie Nguyen  with percentage  0.913
+Brandon Ye is paired with Emily Vo  with percentage  0.39
+Gary Huang is paired with Tiffany Tsai  with percentage  0.961

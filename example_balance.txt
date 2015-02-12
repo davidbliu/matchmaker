@@ -1,0 +1,18 @@
+using Alyssa Gan to balance
+	now class B
+using Andrea Kwan to balance
+	now class B
+using Haruko Ayabe to balance
+	now class B
+using Mingde to balance
+	now class B
+using Eric Park to balance
+	now class A
+using Kevin Zhang to balance
+	now class B
+these are the males and females after balancing
+['Eric Quach', 'Gary Huang', 'Allen Chen', 'Hammad Khan', 'Alex Wang', 'Willie', 'Albert Lin', 'Alan Zhang', 'Arthur Liou', 'Jeremy Chin', 'Alex Takahashi', 'David Cheung', 'David Liu', 'David Zhou', 'Andy Chen', 'Jensen Li', 'Yiming Jen', 'JaeHoon Kim ', 'Patrick Chang', 'Rouhin Ghosh', 'Kev Li ', 'Ben Lin', 'Brandon Ye', 'Eric Park']
+['Kevin Lee', 'Iris Ananthset', 'Julie Xiao', 'Alven Wang', 'Willa Peng', 'Emily Vo', 'Alice Sun', 'Emily Liu', 'Caroline Chen', 'Sammy Tong', 'Joey Choi', 'Elizabeth Jiang', 'Michael Xu', 'Frances Thai', 'Cate ', 'Phyllis Thai', 'Tiffany Tsai', 'Nathalie Nguyen', 'Winky Wong', 'Christine Shih', 'Alyssa Gan', 'Andrea Kwan', 'Haruko Ayabe', 'Mingde', 'Kevin Zhang']
+[]
+somebody is going to be lonely
+Andrea Kwan will be lonely :( sad face

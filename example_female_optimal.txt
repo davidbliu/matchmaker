@@ -1,0 +1,399 @@
+Nathalie Nguyen is paired with Eric Quach  with percentage  0.945492662474
+	Jensen Li 0.00104821802935
+	Jeremy Chin 0.00104821802935
+	Alex Takahashi 0.0020964360587
+	Eric Quach 0.945492662474
+	Arthur Liou 0.00104821802935
+	Kev Li 0.0450733752621
+	Gary Huang 0.0041928721174
+Cate is paired with Yiming Jen  with percentage  0.319791666667
+	Haruko Ayabe 0.003125
+	Alan Zhang 0.00416666666667
+	Arthur Liou 0.0354166666667
+	Jensen Li 0.021875
+	David Cheung 0.0145833333333
+	Allen Chen 0.009375
+	Mingde 0.00208333333333
+	Jeremy Chin 0.00625
+	Eric Park 0.00729166666667
+	Rouhin Ghosh 0.0177083333333
+	Alyssa Gan 0.0125
+	Yiming Jen 0.319791666667
+	Brandon Ye 0.003125
+	Eric Quach 0.00729166666667
+	Alex Takahashi 0.0197916666667
+	Ben Lin 0.065625
+	David Zhou 0.0916666666667
+	Willie 0.223958333333
+	David Liu 0.0916666666667
+	Kevin Zhang 0.00208333333333
+	Andy Chen 0.040625
+Winky Wong is paired with JaeHoon Kim  with percentage  1.0
+Iris Ananthset is paired with Alex Takahashi  with percentage  0.3875
+	Andy Chen 0.0458333333333
+	JaeHoon Kim 0.00104166666667
+	Alex Wang 0.0125
+	Willie 0.040625
+	Jeremy Chin 0.009375
+	Eric Park 0.00208333333333
+	Rouhin Ghosh 0.00833333333333
+	Alex Takahashi 0.3875
+	Eric Quach 0.0104166666667
+	Arthur Liou 0.003125
+	Hammad Khan 0.0208333333333
+	Brandon Ye 0.417708333333
+	Kevin Zhang 0.00104166666667
+	Jensen Li 0.0395833333333
+Mingde is paired with Ben Lin  with percentage  0.12995049505
+	Haruko Ayabe 0.0160891089109
+	Alan Zhang 0.0990099009901
+	Arthur Liou 0.0136138613861
+	Andy Chen 0.00742574257426
+	David Cheung 0.00371287128713
+	Albert Lin 0.00247524752475
+	Brandon Ye 0.00247524752475
+	Allen Chen 0.0272277227723
+	Jeremy Chin 0.00123762376238
+	JaeHoon Kim 0.00123762376238
+	Rouhin Ghosh 0.085396039604
+	Alyssa Gan 0.0420792079208
+	Yiming Jen 0.00866336633663
+	Eric Quach 0.00247524752475
+	Alex Takahashi 0.0160891089109
+	Ben Lin 0.12995049505
+	David Zhou 0.294554455446
+	Willie 0.00742574257426
+	David Liu 0.236386138614
+	Jensen Li 0.00247524752475
+Julie Xiao is paired with Jeremy Chin  with percentage  0.0283315844701
+	Haruko Ayabe 0.0262329485834
+	Alan Zhang 0.137460650577
+	Andy Chen 0.00839454354669
+	JaeHoon Kim 0.00104931794334
+	Andrea Kwan 0.00104931794334
+	Willie 0.0199370409234
+	Allen Chen 0.0891920251836
+	Mingde 0.0304302203568
+	Jeremy Chin 0.0283315844701
+	Eric Park 0.00419727177335
+	David Zhou 0.093389296957
+	Rouhin Ghosh 0.0944386149003
+	Alyssa Gan 0.0136411332634
+	Brandon Ye 0.00419727177335
+	Eric Quach 0.00314795383001
+	Alex Takahashi 0.00419727177335
+	Ben Lin 0.152151101784
+	Arthur Liou 0.12906610703
+	David Cheung 0.0818467995803
+	David Liu 0.0745015739769
+	Jensen Li 0.00314795383001
+Frances Thai is paired with Albert Lin  with percentage  0.471816283925
+	Andy Chen 0.00104384133612
+	Brandon Ye 0.00208768267223
+	Jensen Li 0.0887265135699
+	Andrea Kwan 0.159707724426
+	Alex Wang 0.0521920668058
+	David Cheung 0.0866388308977
+	Eric Park 0.00939457202505
+	Rouhin Ghosh 0.0135699373695
+	Yiming Jen 0.00208768267223
+	Kevin Zhang 0.00104384133612
+	Alex Takahashi 0.0146137787056
+	Eric Quach 0.00939457202505
+	Arthur Liou 0.00104384133612
+	Hammad Khan 0.0313152400835
+	Willie 0.0344467640919
+	Gary Huang 0.0208768267223
+	Albert Lin 0.471816283925
+Kevin Lee is paired with Arthur Liou  with percentage  0.290928050052
+	Alan Zhang 0.0302398331595
+	Andy Chen 0.00729927007299
+	David Cheung 0.149113660063
+	Allen Chen 0.280500521376
+	David Zhou 0.00625651720542
+	Jeremy Chin 0.0396246089677
+	Eric Park 0.00104275286757
+	Rouhin Ghosh 0.00417101147028
+	Alyssa Gan 0.00625651720542
+	Eric Quach 0.00104275286757
+	Alex Takahashi 0.00312825860271
+	Ben Lin 0.0177267987487
+	Arthur Liou 0.290928050052
+	Willie 0.00729927007299
+	David Liu 0.00625651720542
+	Kevin Zhang 0.143899895725
+	Jensen Li 0.00521376433785
+Willa Peng is paired with David Cheung  with percentage  0.0617283950617
+	Haruko Ayabe 0.0174897119342
+	Alan Zhang 0.0843621399177
+	Arthur Liou 0.0102880658436
+	Andy Chen 0.0308641975309
+	JaeHoon Kim 0.00514403292181
+	Albert Lin 0.00102880658436
+	Willie 0.0246913580247
+	Allen Chen 0.0329218106996
+	Mingde 0.0390946502058
+	Jeremy Chin 0.00308641975309
+	Eric Park 0.00617283950617
+	Rouhin Ghosh 0.127572016461
+	Alyssa Gan 0.0277777777778
+	Yiming Jen 0.00102880658436
+	Brandon Ye 0.00308641975309
+	Alex Takahashi 0.00617283950617
+	Ben Lin 0.123456790123
+	David Zhou 0.09670781893
+	David Cheung 0.0617283950617
+	David Liu 0.0730452674897
+	Jensen Li 0.224279835391
+Phyllis Thai is paired with Willie  with percentage  0.447668393782
+	Haruko Ayabe 0.00310880829016
+	Alan Zhang 0.0020725388601
+	Albert Lin 0.515025906736
+	David Cheung 0.0020725388601
+	Allen Chen 0.0145077720207
+	Alyssa Gan 0.00103626943005
+	Yiming Jen 0.00518134715026
+	Alex Takahashi 0.00103626943005
+	Ben Lin 0.0020725388601
+	Arthur Liou 0.00103626943005
+	Willie 0.447668393782
+	David Liu 0.0020725388601
+	Andy Chen 0.00310880829016
+Christine Shih is paired with David Zhou  with percentage  0.128630705394
+	Haruko Ayabe 0.0269709543568
+	Alan Zhang 0.270746887967
+	Andy Chen 0.0643153526971
+	Willie 0.00933609958506
+	Allen Chen 0.0352697095436
+	Mingde 0.0217842323651
+	Jeremy Chin 0.042531120332
+	Eric Park 0.0290456431535
+	David Liu 0.0539419087137
+	Rouhin Ghosh 0.0933609958506
+	Alyssa Gan 0.0176348547718
+	Yiming Jen 0.00103734439834
+	Eric Quach 0.00103734439834
+	Alex Takahashi 0.00207468879668
+	Ben Lin 0.0809128630705
+	Arthur Liou 0.0269709543568
+	David Cheung 0.048755186722
+	David Zhou 0.128630705394
+	Gary Huang 0.00103734439834
+	Jensen Li 0.0446058091286
+Caroline Chen is paired with Eric Park  with percentage  0.0811654526535
+	Alan Zhang 0.0894901144641
+	Andy Chen 0.00416233090531
+	Alex Wang 0.00104058272633
+	Mingde 0.00728407908429
+	Willie 0.0718002081165
+	David Zhou 0.060353798127
+	JaeHoon Kim 0.00104058272633
+	Allen Chen 0.180020811655
+	Rouhin Ghosh 0.14151925078
+	Yiming Jen 0.00832466181061
+	Haruko Ayabe 0.0260145681582
+	Andrea Kwan 0.00832466181061
+	Eric Park 0.0811654526535
+	Alex Takahashi 0.00520291363163
+	Ben Lin 0.0936524453694
+	Arthur Liou 0.00624349635796
+	David Cheung 0.098855359001
+	David Liu 0.0395421436004
+	Jensen Li 0.0280957336108
+	Albert Lin 0.0343392299688
+	Alyssa Gan 0.00312174817898
+	Brandon Ye 0.0104058272633
+Haruko Ayabe is paired with David Liu  with percentage  0.237221494102
+	Alan Zhang 0.144167758847
+	Andy Chen 0.0419397116645
+	Alex Wang 0.00131061598952
+	Brandon Ye 0.00524246395806
+	Allen Chen 0.234600262123
+	Mingde 0.00131061598952
+	Jeremy Chin 0.00524246395806
+	David Zhou 0.0249017038008
+	Rouhin Ghosh 0.0380078636959
+	Alyssa Gan 0.0170380078637
+	Yiming Jen 0.00131061598952
+	Willie 0.0117955439056
+	Eric Quach 0.00262123197903
+	Alex Takahashi 0.0353866317169
+	Ben Lin 0.0484927916121
+	Arthur Liou 0.0576671035387
+	David Cheung 0.086500655308
+	David Liu 0.237221494102
+	Gary Huang 0.00262123197903
+	Albert Lin 0.00262123197903
+Elizabeth Jiang is paired with Patrick Chang  with percentage  1.0
+Emily Vo is paired with Andy Chen  with percentage  0.291404612159
+	Haruko Ayabe 0.00314465408805
+	Andy Chen 0.291404612159
+	JaeHoon Kim 0.0020964360587
+	Alex Wang 0.103773584906
+	Brandon Ye 0.394129979036
+	Allen Chen 0.0020964360587
+	Jeremy Chin 0.0157232704403
+	Eric Park 0.0125786163522
+	Willie 0.0104821802935
+	Alex Takahashi 0.0922431865828
+	Eric Quach 0.00104821802935
+	Arthur Liou 0.0115303983229
+	Hammad Khan 0.0513626834382
+	David Cheung 0.00314465408805
+	Gary Huang 0.0041928721174
+	Jensen Li 0.00104821802935
+Joey Choi is paired with Hammad Khan  with percentage  0.908333333333
+	Alex Wang 0.040625
+	Eric Quach 0.00416666666667
+	Hammad Khan 0.908333333333
+	Patrick Chang 0.0458333333333
+	Brandon Ye 0.00104166666667
+Tiffany Tsai is paired with Gary Huang  with percentage  1.0
+Kevin Zhang is paired with Allen Chen  with percentage  0.136854741897
+	Haruko Ayabe 0.00480192076831
+	Alan Zhang 0.00240096038415
+	Jensen Li 0.0396158463385
+	Alex Wang 0.0504201680672
+	Willie 0.0132052821128
+	Allen Chen 0.136854741897
+	Mingde 0.00240096038415
+	Jeremy Chin 0.031212484994
+	Eric Park 0.00120048019208
+	David Liu 0.0372148859544
+	Rouhin Ghosh 0.00840336134454
+	Alyssa Gan 0.0168067226891
+	Brandon Ye 0.0216086434574
+	Ben Lin 0.00240096038415
+	Alex Takahashi 0.0636254501801
+	Eric Quach 0.0180072028812
+	David Zhou 0.0132052821128
+	David Cheung 0.189675870348
+	Arthur Liou 0.276110444178
+	Gary Huang 0.0168067226891
+	Andy Chen 0.0540216086435
+Alice Sun is paired with Brandon Ye  with percentage  0.142259414226
+	Alan Zhang 0.00209205020921
+	Andy Chen 0.202928870293
+	Alex Wang 0.00732217573222
+	Mingde 0.00313807531381
+	Willie 0.0418410041841
+	Arthur Liou 0.0585774058577
+	JaeHoon Kim 0.00313807531381
+	Allen Chen 0.00523012552301
+	Jeremy Chin 0.00313807531381
+	Rouhin Ghosh 0.00627615062762
+	Yiming Jen 0.00627615062762
+	Hammad Khan 0.00627615062762
+	Haruko Ayabe 0.0167364016736
+	Andrea Kwan 0.00732217573222
+	Eric Park 0.00313807531381
+	Alex Takahashi 0.373430962343
+	Ben Lin 0.00313807531381
+	David Zhou 0.00523012552301
+	David Cheung 0.0596234309623
+	David Liu 0.00732217573222
+	Jensen Li 0.0135983263598
+	Alyssa Gan 0.015690376569
+	Eric Quach 0.00627615062762
+	Brandon Ye 0.142259414226
+Emily Liu is paired with Alex Wang  with percentage  0.775808133472
+	Haruko Ayabe 0.00312825860271
+	Albert Lin 0.00208550573514
+	Alex Wang 0.775808133472
+	Willie 0.00104275286757
+	Rouhin Ghosh 0.00104275286757
+	David Cheung 0.00104275286757
+	Alex Takahashi 0.00208550573514
+	Eric Quach 0.014598540146
+	Arthur Liou 0.136600625652
+	Hammad Khan 0.0229405630865
+	Brandon Ye 0.0198123044838
+	Kevin Zhang 0.00104275286757
+	Andy Chen 0.0187695516163
+Michael Xu is paired with Alan Zhang  with percentage  0.118257261411
+	Haruko Ayabe 0.0145228215768
+	Alan Zhang 0.118257261411
+	Arthur Liou 0.00622406639004
+	Jensen Li 0.0300829875519
+	JaeHoon Kim 0.00103734439834
+	Willie 0.0632780082988
+	Allen Chen 0.0394190871369
+	Mingde 0.042531120332
+	Jeremy Chin 0.00207468879668
+	Eric Park 0.0124481327801
+	Rouhin Ghosh 0.177385892116
+	Alyssa Gan 0.00311203319502
+	Brandon Ye 0.00311203319502
+	Eric Quach 0.00103734439834
+	Alex Takahashi 0.00829875518672
+	Ben Lin 0.199170124481
+	David Zhou 0.113070539419
+	David Cheung 0.0435684647303
+	David Liu 0.094398340249
+	Andy Chen 0.0269709543568
+Alven Wang is paired with Rouhin Ghosh  with percentage  0.236570247934
+	Haruko Ayabe 0.0206611570248
+	Alan Zhang 0.0754132231405
+	Arthur Liou 0.00826446280992
+	Andy Chen 0.186983471074
+	JaeHoon Kim 0.0185950413223
+	Willie 0.00723140495868
+	Allen Chen 0.021694214876
+	Mingde 0.0123966942149
+	Jeremy Chin 0.0196280991736
+	Eric Park 0.00619834710744
+	Rouhin Ghosh 0.236570247934
+	Alyssa Gan 0.00929752066116
+	David Cheung 0.00619834710744
+	Alex Takahashi 0.00723140495868
+	Ben Lin 0.127066115702
+	David Zhou 0.114669421488
+	Brandon Ye 0.0165289256198
+	David Liu 0.0940082644628
+	Jensen Li 0.0113636363636
+Alyssa Gan is paired with Jensen Li  with percentage  0.565162907268
+	Haruko Ayabe 0.0175438596491
+	Alan Zhang 0.0300751879699
+	Arthur Liou 0.0225563909774
+	Jensen Li 0.565162907268
+	Willie 0.00375939849624
+	Allen Chen 0.00375939849624
+	Mingde 0.00877192982456
+	Jeremy Chin 0.0062656641604
+	Rouhin Ghosh 0.00375939849624
+	Yiming Jen 0.0213032581454
+	Eric Quach 0.00501253132832
+	Alex Takahashi 0.00751879699248
+	Ben Lin 0.0288220551378
+	David Zhou 0.0601503759398
+	David Cheung 0.0927318295739
+	David Liu 0.100250626566
+	Andy Chen 0.0225563909774
+Sammy Tong is paired with Kev Li  with percentage  1.0
+
+
+
+Nathalie Nguyen is paired with Eric Quach  with percentage  0.945492662474
+Cate is paired with Yiming Jen  with percentage  0.319791666667
+Winky Wong is paired with JaeHoon Kim  with percentage  1.0
+Iris Ananthset is paired with Alex Takahashi  with percentage  0.3875
+Mingde is paired with Ben Lin  with percentage  0.12995049505
+Julie Xiao is paired with Jeremy Chin  with percentage  0.0283315844701
+Frances Thai is paired with Albert Lin  with percentage  0.471816283925
+Kevin Lee is paired with Arthur Liou  with percentage  0.290928050052
+Willa Peng is paired with David Cheung  with percentage  0.0617283950617
+Phyllis Thai is paired with Willie  with percentage  0.447668393782
+Christine Shih is paired with David Zhou  with percentage  0.128630705394
+Caroline Chen is paired with Eric Park  with percentage  0.0811654526535
+Haruko Ayabe is paired with David Liu  with percentage  0.237221494102
+Elizabeth Jiang is paired with Patrick Chang  with percentage  1.0
+Emily Vo is paired with Andy Chen  with percentage  0.291404612159
+Joey Choi is paired with Hammad Khan  with percentage  0.908333333333
+Tiffany Tsai is paired with Gary Huang  with percentage  1.0
+Kevin Zhang is paired with Allen Chen  with percentage  0.136854741897
+Alice Sun is paired with Brandon Ye  with percentage  0.142259414226
+Emily Liu is paired with Alex Wang  with percentage  0.775808133472
+Michael Xu is paired with Alan Zhang  with percentage  0.118257261411
+Alven Wang is paired with Rouhin Ghosh  with percentage  0.236570247934
+Alyssa Gan is paired with Jensen Li  with percentage  0.565162907268
+Sammy Tong is paired with Kev Li  with percentage  1.0
